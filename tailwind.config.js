@@ -6,7 +6,7 @@ module.exports = {
   ],
   theme: {
     fontFamily: {
-      sans: ["Ariel", "sans-serif"],
+      sans: ["Inter", "sans-serif"],
     },
     extend: {
       colors: {
