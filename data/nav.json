@@ -1,0 +1,7 @@
+[
+  { "name": "Dashboard", "href": "/" },
+  { "name": "All Assets", "href": "/assets" },
+  { "name": "Repayment History", "href": "/repayments" },
+  { "name": "Reports", "href": "/reports" },
+  { "name": "Your team", "href": "/team" }
+]

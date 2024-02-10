@@ -1,4 +1,4 @@
-import { Header } from "../";
+import { Header } from "@/components";
 export function Application_Layout({ title, children }) {
   return (
     <>
